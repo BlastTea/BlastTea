@@ -4,6 +4,10 @@
 
 # 💻 Languages and Tools :
 <p align="left">
+    <!-- Go -->
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
