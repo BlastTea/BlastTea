@@ -20,6 +20,10 @@
     <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="go" width="40" height="40"/>
     </a>
+    <!-- Redis -->
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="go" width="40" height="40"/>
+    </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
