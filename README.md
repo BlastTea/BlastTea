@@ -1,4 +1,4 @@
-# 👋 Hello, I am Mahisa Putra Surya 
+# 👋 Hello, I am a developer 
 🚀 Informatics Student<br>
 👨🏻‍💻 Still learning, Future software developer.
 
