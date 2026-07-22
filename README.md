@@ -10,7 +10,7 @@
     </a>
     <!-- Go Gin -->
     <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-        <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" alt="go" width="40" height="40"/>
+        <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_hOrNd.webp" alt="go" width="40" height="40"/>
     </a>
     <!-- Docker -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
