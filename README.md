@@ -1,6 +1,6 @@
-# 👋 Hello, I am a developer 
-🚀 Informatics Student<br>
-👨🏻‍💻 Still learning, Future software developer.
+<big><strong>•&nbsp;&nbsp;🚀 Informatics Student</strong></big><br>
+<big><strong>•&nbsp;&nbsp;💼 Self-Employed</strong></big><br>
+<big><strong>•&nbsp;&nbsp;🏢 Business Owner of <a href="https://github.com/multitechid">CV MULTI TECH SOLUTIONS</a></strong></big>
 
 # 💻 Languages and Tools :
 <p align="left">
