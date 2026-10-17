@@ -1,6 +1,8 @@
-<big><big><strong>•&nbsp;&nbsp;🚀 Informatics Student</strong></big></big><br>
-<big><big><strong>•&nbsp;&nbsp;💼 Self-Employed</strong></big></big><br>
-<big><big><strong>•&nbsp;&nbsp;🏢 Business Owner of <a href="https://github.com/multitechid">CV MULTI TECH SOLUTIONS</a></strong></big></big>
+<h3>
+    •&nbsp;&nbsp;🚀 Informatics Student<br>
+    •&nbsp;&nbsp;💼 Self-Employed<br>
+    •&nbsp;&nbsp;🏢 Business Owner of <a href="https://github.com/multitechid">CV MULTI TECH SOLUTIONS</a>
+</h3>
 
 # 💻 Languages and Tools :
 <p align="left">
